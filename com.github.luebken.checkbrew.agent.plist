@@ -5,7 +5,7 @@
 		<key>Label</key>
 		<string>checkbrew</string>
 		<key>Program</key>
-		<string>/Users/mdl/workspace/scripts/hydrated/checkbrew.sh</string>
+		<string>/Users/mdl/workspace/scripts/checkbrew/checkbrew.sh</string>
 		<key>RunAtLoad</key>
 		<true/>
 		<key>StartInterval</key>
