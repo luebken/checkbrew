@@ -1,4 +1,4 @@
-# hydrated
+# checkbrew
 A simple launchd agent with Mac notifications to check for new formulas
 
 # install
